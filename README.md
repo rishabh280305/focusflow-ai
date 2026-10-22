@@ -24,5 +24,5 @@ vercel dev
 
 ## Links
 
-- Live: https://focusflow-ai.vercel.app
+- Live: https://focusflow-ai-ten.vercel.app
 - Repository: https://github.com/rishabh280305/focusflow-ai
